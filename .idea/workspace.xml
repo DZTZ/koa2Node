@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5460d7b-227d-4103-bdc3-35ab88397a02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/database/schema/Article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router/publish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tool.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lPQHjkQ0B3KDgoKXE2fDxuDqSr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5460d7b-227d-4103-bdc3-35ab88397a02" name="Default Changelist" comment="" />
+      <created>1607496160979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607496160979</updated>
+      <workItem from="1607496162091" duration="28000" />
+      <workItem from="1607497111344" duration="81000" />
+      <workItem from="1607502965141" duration="75000" />
+      <workItem from="1607525053175" duration="1765000" />
+      <workItem from="1607563639546" duration="748000" />
+      <workItem from="1607584744927" duration="4157000" />
+      <workItem from="1607594108720" duration="4000" />
+      <workItem from="1607605158520" duration="662000" />
+      <workItem from="1607649794926" duration="15000" />
+      <workItem from="1607677139440" duration="5510000" />
+      <workItem from="1607780787325" duration="15385000" />
+      <workItem from="1607928324976" duration="1319000" />
+      <workItem from="1607937326765" duration="744000" />
+      <workItem from="1607958610001" duration="253000" />
+      <workItem from="1608250746828" duration="1562000" />
+      <workItem from="1608303828168" duration="10000" />
+      <workItem from="1608346993487" duration="4765000" />
+      <workItem from="1608368058474" duration="1230000" />
+      <workItem from="1608454773542" duration="226000" />
+      <workItem from="1608738481822" duration="1123000" />
+      <workItem from="1608772376632" duration="70000" />
+      <workItem from="1608796038081" duration="1986000" />
+      <workItem from="1608882174311" duration="987000" />
+      <workItem from="1608948657997" duration="305000" />
+      <workItem from="1608988171960" duration="1000" />
+      <workItem from="1609041298299" duration="3240000" />
+      <workItem from="1609114139169" duration="278000" />
+      <workItem from="1609125632578" duration="1471000" />
+      <workItem from="1609147688878" duration="469000" />
+      <workItem from="1609199948472" duration="563000" />
+      <workItem from="1609213035797" duration="1053000" />
+      <workItem from="1609379589872" duration="750000" />
+      <workItem from="1609601535377" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="177" key="#JavaScript" timestamp="1607827238189">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="440" y="177" key="#JavaScript/0.0.1440.900@0.0.1440.900" timestamp="1607827238189" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1607563767793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1607563767793" />
+    <state x="343" y="78" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607783655469">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="343" y="78" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1607783655469" />
+    <state x="346" y="138" width="883" height="665" key="find.popup" timestamp="1609114157683">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="346" y="138" width="883" height="665" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1609114157683" />
+  </component>
+</project>
